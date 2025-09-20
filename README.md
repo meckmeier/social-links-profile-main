@@ -46,6 +46,7 @@ Users should be able to:
 ### What I learned
 
 This project really benefited from EMMET! After putting in the html elements in my index.html, I started to build out the css file and emmet pretty much gave me the bulk of the code i needed. I do wonder how that works? But regardless, it went pretty fast.
+HOWEVER, I was tripped up again on getting the main container centered on the page. 
 
 
 ### Continued development
